@@ -2,23 +2,23 @@
 
 Panꓘart est un groupe de rock-celtique engagé créé en 2008.
 
-Objectifs du site : 
+**Objectifs du site** : 
 - Présenter Pankarte, leur style de musique,...
 - Attirer l'attention des organisateurs
 - Faire passer des messages (via les coups de gueule)
 - Avoir un maximum de dates
 
-Public cible : 
+**Public cible** : 
 - Organisateurs
 - Fans
 - Des intéressés de principalement 20-30 ans 
 
-Valeurs : 
+**Valeurs** : 
 - Solidarité
 - Écologie
 - Notion durable
 
-Souhaits : 
+**Souhaits** : 
 - Site responsive
 - Une mise à jour autonome (dates, galerie,...), sans l'aide d'un technicien
 - Un design moderne
@@ -26,7 +26,7 @@ Souhaits :
 - Eco-conception web
 - Design sonore
 
-Pages : 
+**Pages** : 
 - Agenda des concerts 
 - Page biographie pour le groupe
 - Pages biographies pour chaque membre du groupe
