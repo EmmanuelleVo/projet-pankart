@@ -1,6 +1,6 @@
 # Projet-PanKart
 
-Pankart est un groupe de rock-celtique engagé créé en 2008.
+Panꓘart est un groupe de rock-celtique engagé créé en 2008.
 
 Objectifs du site : 
 - Présenter Pankarte, leur style de musique,...
@@ -13,6 +13,10 @@ Public cible :
 - Fans
 - Des intéressés de principalement 20-30 ans 
 
+Valeurs : 
+- Solidarité
+- Écologie
+- Notion durable
 
 Souhaits : 
 - Site responsive
@@ -20,7 +24,7 @@ Souhaits :
 - Un design moderne
 - Mettre les valeurs qu'ils veulent défendre en avant
 - Eco-conception web
-- 
+- Design sonore
 
 Pages : 
 - Agenda des concerts 
@@ -33,5 +37,6 @@ Pages :
 - Page de contact
 - Page pour le booking
 - Page pour les 'privacy policy'
+- Des liens vers les réseaux sociaux
 
-
+Avoir une possiblité de de commander l'EP sur le site
