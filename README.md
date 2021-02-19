@@ -86,6 +86,7 @@ Avoir une possiblité de de commander l'EP sur le site
     - Titre
     - Date
     - Petite description
+  - Revue de presse
 - Galerie : Trié par date
   - Photos 
   - Vidéos
