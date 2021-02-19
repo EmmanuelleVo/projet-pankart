@@ -40,3 +40,12 @@ Panꓘart est un groupe de rock-celtique engagé créé en 2008.
 - Des liens vers les réseaux sociaux
 
 Avoir une possiblité de de commander l'EP sur le site
+
+
+/////////
+
+Plan du site :
+
+
+
+
