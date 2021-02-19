@@ -50,3 +50,44 @@ Avoir une possiblité de de commander l'EP sur le site
 - https://www.oneokrock.com/en/
 
 
+### Plan du site
+
+- Landing page (accueil) : le truc le plus récent (ou qui va se passer, ex: concert)
+    => CTA pour en savoir plus et réserver
+  - Menu : Agenda, Biographie, Contact, News, Galerie, Lyrics
+  - On scroll, on a différentes rubriques :
+    - News (Du groupe, coup de gueule et coup de coeur)
+    - Vidéos et photos
+  - Footer : Liens vers les réseaux sociaux, privacy policy
+  
+- Agenda : 
+  - Image
+  - Titre
+  - Date
+  - Lieu
+  - Description
+  - CTA pour acheter une place
+  - Full ou non
+- Biographie :
+  - Bio du groupe
+    - Photos
+    - Description
+  - Lien vers la biographie de chaque membre du groupe
+    - Photos
+    - Description
+    - (Leur instrument en background?)
+- Contact : 
+  - Formulaire de contact
+  - Avec bouton radio qui change selon l’utilisateur : organisateur ou autre
+  - Lien pour le booking
+- News : 
+  - Coup de coeur et coup de gueule,…
+    - Image
+    - Titre
+    - Date
+    - Petite description
+- Galerie : Trié par date
+  - Photos 
+  - Vidéos
+  - Titre
+
