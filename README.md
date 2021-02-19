@@ -90,4 +90,7 @@ Avoir une possiblité de de commander l'EP sur le site
   - Photos 
   - Vidéos
   - Titre
-
+- Lyrics :
+    - Liste de chansons
+    - Vidéo de la chanson
+    - Paroles 
