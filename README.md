@@ -49,6 +49,10 @@ Avoir une possiblité de de commander l'EP sur le site
 - https://www.nirvana.com
 - https://www.oneokrock.com/en/
 
+### Moodboard
+
+[Milanotes](https://app.milanote.com/1Ld15X1eatdvwo?p=s73iVcVqbiS)
+
 
 ### Plan du site
 
