@@ -65,6 +65,7 @@ Avoir une possiblité de de commander l'EP sur le site
     - News (Du groupe, coup de gueule et coup de coeur)
     - Vidéo
   - Footer : Liens vers les réseaux sociaux, privacy policy
+ 
 **2) Agenda** : 
   - Image
   - Titre
@@ -73,6 +74,7 @@ Avoir une possiblité de de commander l'EP sur le site
   - Description
   - CTA pour acheter une place
   - Full ou non
+
 **3) Biographie** :
   - Bio du groupe
     - Photos
@@ -81,6 +83,7 @@ Avoir une possiblité de de commander l'EP sur le site
     - Photos
     - Description
     - (Leur instrument en background?)
+
 **4) Contact** : 
   - Formulaire de contact
   - Avec bouton radio qui change selon l’utilisateur : organisateur ou autre
@@ -93,17 +96,22 @@ Avoir une possiblité de de commander l'EP sur le site
     - Date
     - Petite description
   - Revue de presse
+
 **6) Photos** (galerie)
+
 **7) Vidéos** (galerie)
+
 **8) Lyrics** :
     - Liste de chansons
     - Vidéo de la chanson
     - Paroles 
+
 **9) Page vidéo** :
     - Vidéo
     - Titre
     - Description
     - Paroles
+
 **10) Page concert** : 
     - Titre
     - Photo
