@@ -85,6 +85,7 @@ Avoir une possiblité de de commander l'EP sur le site
   - Formulaire de contact
   - Avec bouton radio qui change selon l’utilisateur : organisateur ou autre
   - Lien pour le booking
+
 **5) News** : 
   - Coup de coeur et coup de gueule,…
     - Image
