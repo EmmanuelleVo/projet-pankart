@@ -129,30 +129,30 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - + Liste de revues de presse
 
 **6) Photos**
-    - Liste des photos mise en page comme une galerie
+  - Liste des photos mise en page comme une galerie
 
 **7) Vidéos** 
-    - Liste des vidéos mise en page comme une galerie
+  - Liste des vidéos mise en page comme une galerie
     
 **8) Lyrics** :
-    - Liste des chansons (des liens qui redirigent vers la page de la vidéo en question)
+  - Liste des chansons (des liens qui redirigent vers la page de la vidéo en question)
 
 **9) Page vidéo** :
-    - Vidéo
-    - Titre
-    - Description
-    - Lyrics
-    - Lien pour commander l'EP 
+  - Vidéo
+  - Titre
+  - Description
+  - Lyrics
+  - Lien pour commander l'EP 
 
 **10) Page concert** : 
-    - Titre
-    - Photo
-    - Date
-    - Lieu
-    - Description
-    - CTA pour réserver
-        - Il est non cliquable si c'est full
-        - Redirige l'utilisateur vers la page/site où il peut acheter le ticket
+  - Titre
+  - Photo
+  - Date
+  - Lieu
+  - Description
+  - CTA pour réserver
+      - Il est non cliquable si c'est full
+      - Redirige l'utilisateur vers la page/site où il peut acheter le ticket
 
 **11) Page d'une news** :
     - Image
