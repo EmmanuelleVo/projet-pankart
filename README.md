@@ -160,6 +160,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Date
   - Description plus complète
   - CTA 'Vers la biographie' si l'utilisateur veut connaitre le groupe
+  - 
 **11) Page revue de presse** : (du même style que la page news)
   - Image
   - Titre
