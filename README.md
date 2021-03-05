@@ -166,9 +166,8 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - Date
     - Description plus complète
 
-\
 
-**Cheminement de l'utilisateur **
+**Cheminement de l'utilisateur**
 
 Bien sûr, l'utilisateur peut navigueur entre les pages via le menu de navigation mais il est important qu'il puisse naviguer via des boutons et liens dans la page elle-même.\ 
 Dans l'Accueil, il peut facilement y parvenir grâce aux différentes sections ayant des liens et boutons : 
