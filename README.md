@@ -61,11 +61,11 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
 **Footer** = pied-de-page\
 **Landing page** = page sur laquelle l'internaute atterrit après avoir cliqué sur un lien.
 
-**1) Accueil** (landing page) : le truc le plus récent (ou qui va se passer, ici: concert)  
-        - Photo cliquable redirigeant vers la page du concert en question
+**1) Accueil** (landing page) : le truc le plus récent (ou qui va se passer, ex: concert ou le dernier EP si il n'y a pas de concert)  
+        - Photo cliquable redirigeant vers la page du concert en question (ou la page de la vidéo de l'EP
         - Titre 
         - Date
-        - CTA 'voir tous les concerts'
+        - CTA 'voir tous les concerts' ou 'voir toutes les vidéos' selon si cela concerne un concert ou l'EP
   - Menu tout en haut : Logo(cliquable redirigeant vers la page d'accueil), Accueil, Agenda, Biographie, Contact, News, Vidéos, Photos, Lyrics
   - On scroll, on a 2 autres sections :
     - Les News les plus récentes (Du groupe, coup de gueule et coup de coeur)
@@ -99,11 +99,14 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Biographie du groupe
     - Photo du groupe
     - Description
+    - Lien vers la page des News pour en savoir d'avantage sur PanKart
+    - CTA 'Nous contacter'
   - Biographie de chaque membre du groupe (en cliquant sur les noms)
     - Photo
     - Description
     - (Leur instrument en background?)
-
+  - Il y a une section Discographie
+    - Liste de liens des chansons 
 **4) Contact** : 
   - Coordonnées (email ou autre)?
   - Formulaire de contact :
@@ -156,7 +159,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - Titre
     - Date
     - Description plus complète
-
+    - CTA 'Vers la biographie' si l'utilisateur veut connaitre le groupe
 **11) Page revue de presse** : (du même style que la page news)
     - Image
     - Titre
@@ -164,6 +167,22 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - Description plus complète
 
 \
+
+**Cheminement de l'utilisateur **
+
+Bien sûr, l'utilisateur peut navigueur entre les pages via le menu de navigation mais il est important qu'il puisse naviguer via des boutons et liens dans la page elle-même.\ 
+Dans l'Accueil, il peut facilement y parvenir grâce aux différentes sections ayant des liens et boutons : 
+        - L'image du concert/EP donne à la page du concert/vidéo en question
+        - Le CTA 'voir tous les concerts/vidéos' donne à l'agenda/page des vidéos
+        - L'image des news vers la news en question
+        - Le CTA 'voir toutes les news' vers les News
+        - Et le CTA 'voir toutes les vidéos' vers la page des Vidéos
+
+Bien sûr, cliquer sur un concert/news/vidéo dans la page où se trouve la liste des concerts/news/vidéos redirige l'utilisateur vers la page respective.
+L'utilisateur peut aussi atteindre la page des News via la biographie du groupe où se trouve un lien afin que l'utilisateur en sache d'avantage sur PanKart. Sur la bio se trouve également un bouton 'Nous contacter' au cas où l'utilisateur aurait des questions, avis ou message à passer et il peut voir les vidéos via la liste de liens dans la section Discographie.\
+Il y a un bouton 'Vers la biographie' dans la page d'une news afin que l'utilisateur fasse connaissance avec le groupe.
+
+
 
 **Question** :\
 Avez-vous beaucoup de photos? (autant pour en faire une page galerie photo à part, sinon, je peux fusionner la galerie vidéo et photo) \
