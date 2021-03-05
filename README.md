@@ -155,16 +155,16 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
       - Redirige l'utilisateur vers la page/site où il peut acheter le ticket
 
 **11) Page d'une news** :
-    - Image
-    - Titre
-    - Date
-    - Description plus complète
-    - CTA 'Vers la biographie' si l'utilisateur veut connaitre le groupe
+  - Image
+  - Titre
+  - Date
+  - Description plus complète
+  - CTA 'Vers la biographie' si l'utilisateur veut connaitre le groupe
 **11) Page revue de presse** : (du même style que la page news)
-    - Image
-    - Titre
-    - Date
-    - Description plus complète
+  - Image
+  - Titre
+  - Date
+  - Description plus complète
 
 
 
