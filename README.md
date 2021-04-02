@@ -66,7 +66,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
         - Titre 
         - Date
         - CTA 'voir tous les concerts' ou 'voir toutes les vidéos' selon si cela concerne un concert ou l'EP
-  - Menu tout en haut : Logo(cliquable redirigeant vers la page d'accueil), Accueil, Agenda, Biographie, Contact, News, Vidéos, Photos, Lyrics
+  - Menu tout en haut : Logo(cliquable redirigeant vers la page d'accueil), Accueil, Agenda, Biographie, Contact, News, Galerie(Vidéos, Photos), Albums
   - On scroll, on a 2 autres sections :
     - Les News les plus récentes (Du groupe, coup de gueule et coup de coeur)
         - 3 news les unes à côté des autres
@@ -105,8 +105,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - Photo
     - Description
     - (Leur instrument en background?)
-  - Il y a une section Discographie
-    - Liste de liens des chansons 
+
 **4) Contact** : 
   - Coordonnées (email ou autre)?
   - Formulaire de contact :
@@ -134,8 +133,8 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
 **7) Vidéos** 
   - Liste des vidéos mise en page comme une galerie
     
-**8) Lyrics** :
-  - Liste des chansons (des liens qui redirigent vers la page de la vidéo en question)
+**8) Albums** :
+  - Liste des chansons (des liens qui redirigent vers la page de la vidéo en question avec les lyrics) par album
 
 **9) Page vidéo** :
   - Vidéo
@@ -143,6 +142,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Description
   - Lyrics
   - Lien pour commander l'EP 
+  - Liens vers les autres chansons de l'album
 
 **10) Page concert** : 
   - Titre
@@ -159,7 +159,7 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Titre
   - Date
   - Description plus complète
-  - CTA 'Vers la biographie' si l'utilisateur veut connaitre le groupe
+  - Autres news à voir à la fin
   - 
 **11) Page revue de presse** : (du même style que la page news)
   - Image
