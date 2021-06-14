@@ -61,14 +61,20 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
 **Footer** = pied-de-page\
 **Landing page** = page sur laquelle l'internaute atterrit après avoir cliqué sur un lien.
 
-**1) Accueil** (landing page) : le truc le plus récent (ou qui va se passer, ex: concert ou le dernier EP si il n'y a pas de concert)  
-        - Photo cliquable redirigeant vers la page du concert en question (ou la page de la vidéo de l'EP
+**1) Accueil** (landing page) :
+        - le truc le plus récent (ou qui va se passer, ex: concert ou le dernier EP si il n'y a pas de concert)  
+        - Photo cliquable redirigeant vers la page du concert en question (ou la page de la vidéo de l'EP)
         - Titre 
         - Date
-        - CTA 'voir tous les concerts' ou 'voir toutes les vidéos' selon si cela concerne un concert ou l'EP
   - Menu tout en haut : Logo(cliquable redirigeant vers la page d'accueil), Accueil, Agenda, Biographie, Contact, News, Galerie(Vidéos, Photos), Albums
-  - On scroll, on a 2 autres sections :
-    - Les News les plus récentes (Du groupe, coup de gueule et coup de coeur)
+  - On scroll, on a 3 autres sections :
+    - Les concerts à venir
+        - Titre
+        - Date
+        - Lieu
+        - CTA du concert en question
+        - + CTA voir tous les concerts
+    - Les News les plus récentes (Du groupe, coup de gueule et coup de coeur, ...)
         - 3 news les unes à côté des autres
             - Titre
             - Image
@@ -77,12 +83,14 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
             - CTA 'voir plus' redirigeant vers la page de la news
         - CTA 'voir toutes les news' centré et en bas des 3 news
         - Pour savoir si c'est un coup de gueule ou un coup de coeur, il y a une petite étiquette avec un style différent selon le type
-    - Vidéo (juste une vidéo)
-        - CTA 'voir toutes les vidéos' centré et en bas de la vidéo
+    - Vidéo (juste une vidéo du dernier concert par ex)
+        - CTA 'voir tous les albums' centré et en bas de la vidéo
   - Entre les sections de la landing page, des news et de la section vidéo, il y a une petite bannière avec un paragraphe d'une punchline
+  - Entre la nav et la première section : un CTA vers la biographie pour en savoir plus sur PanKart
   - Footer : 
     - Liens(logos) vers les réseaux sociaux (Ces logos se trouvent aussi sur la gauche de l'écran les uns en-dessous des autres)
     - Privacy policy
+    - Navigation
  
 **2) Agenda** : 
   - Liste des concerts 
@@ -90,24 +98,23 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - Titre
     - Date
     - Lieu
-    - Petite description
-    - CTA 'réserver'
+    - CTA 'Voir le concert'
         - Sur lequel il y a une petite étiquette qui indique si il n'y a plus de place
 
 **3) Biographie** :
-  - En haut, il y a des boutons : 'Groupe(ou PanKart)', ‘Mathieu Menot’, ‘Noé van Ingelgom’, ‘Raphaël Goblet’, ‘William Vincent’, ‘Bastien Bodson’ et ‘Maxime Champion’. En cliquant dessus, on ne change pas de page mais les images et le texte changent. (Ou alors, au lieu de mettre les noms des membres, mettre leur rôle(guitariste,...)??)
+  - En haut, il y a des boutons : 'Groupe(ou PanKart)', ‘Mathieu Menot’, ‘Noé van Ingelgom’, ‘Raphaël Goblet’, ‘William Vincent’, ‘Bastien Bodson’ et ‘Maxime Champion’. En cliquant dessus, on ne change pas de page mais les images et le texte changent.
   - Biographie du groupe
     - Photo du groupe
     - Description
     - Lien vers la page des News pour en savoir d'avantage sur PanKart
-    - CTA 'Nous contacter'
   - Biographie de chaque membre du groupe (en cliquant sur les noms)
     - Photo
+    - Rôle
     - Description
     - (Leur instrument en background?)
 
 **4) Contact** : 
-  - Coordonnées (email ou autre)?
+  - Image du groupe
   - Formulaire de contact :
     - Avec boutons radios pour l’utilisateur : organisateur ou autre
     - Nom
@@ -117,15 +124,15 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     - CTA 'envoyer' (qui vous donne un notification lorsque qu'on vous envoie un message)
   - Lien pour le booking (vers gitstarter)
 
-**5) News** : 
-  - Liste des news
+**5) News** :
+  - Filtre coup de coeur ou coup de gueule
+  - Liste des news 
     - Image
     - Titre
     - Date
     - Petite description
     - La même étiquette qui représente soit un coup de gueule ou soit un coup de coeur 
     - CTA 'voir plus'
-  - + Liste de revues de presse
 
 **6) Photos**
   - Liste des photos mise en page comme une galerie
@@ -135,6 +142,8 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
     
 **8) Albums** :
   - Liste des chansons (des liens qui redirigent vers la page de la vidéo en question avec les lyrics) par album
+  - Image de l'album
+  - Lien pour écouter sur Spotify
 
 **9) Page vidéo** :
   - Vidéo
@@ -142,12 +151,14 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Description
   - Lyrics
   - Lien pour commander l'EP 
+  - Lien pour écouter sur Spotify
   - Liens vers les autres chansons de l'album
 
 **10) Page concert** : 
   - Titre
   - Photo
   - Date
+  - Heure
   - Lieu
   - Description
   - CTA pour réserver
@@ -161,11 +172,6 @@ Il y a des petites animations : effet de hover sur l'image cliquable à l'accuei
   - Description plus complète
   - Autres news à voir à la fin
   - 
-**11) Page revue de presse** : (du même style que la page news)
-  - Image
-  - Titre
-  - Date
-  - Description plus complète
 
 
 
@@ -183,10 +189,3 @@ Dans l'Accueil, il peut facilement y parvenir grâce aux différentes sections a
 Bien sûr, cliquer sur un concert/news/vidéo dans la page où se trouve la liste des concerts/news/vidéos redirige l'utilisateur vers la page respective.
 L'utilisateur peut aussi atteindre la page des News via la biographie du groupe où se trouve un lien afin que l'utilisateur en sache d'avantage sur PanKart. Sur la bio se trouve également un bouton 'Nous contacter' au cas où l'utilisateur aurait des questions, avis ou message à passer et il peut voir les vidéos via la liste de liens dans la section Discographie.\
 Il y a un bouton 'Vers la biographie' dans la page d'une news afin que l'utilisateur fasse connaissance avec le groupe.
-
-
-
-**Question** :\
-Avez-vous beaucoup de photos? (autant pour en faire une page galerie photo à part, sinon, je peux fusionner la galerie vidéo et photo) \
-Si oui, prenez-vous plusieurs photos en un jour/mois? Comme ça je pourrais les trier par date/mois (ex : Mars 2020 puis 3-4 photos; en-dessous, Janvier 2020 puis 2-3 photos, etc...)
-
